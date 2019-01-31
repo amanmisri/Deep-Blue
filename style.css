@@ -1,0 +1,98 @@
+** {
+  margin: 0px;
+  padding: 0px;
+}
+html
+{
+ background-image: url(publictoilet.jpg);
+ background-repeat:no repeat;
+ background-size:cover;
+}
+body {
+  font-size: 120%;
+}
+
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: white;
+  background: #0000FF;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  opacity:0.8
+}
+form, .content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  opacity:0.8;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 25px;
+  width: 60%;
+  padding: 10px;
+  font-size: 16px;
+}
+.btn {
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #66CC00;
+  border:solid;
+  border-radius: 5px  #66CC00;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+.icon {
+  padding: 10px;
+  background: #0000FF;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+
+//.hero-image1 {
+  //background-image: url("./login.jpg");
+  //background-color:#cccccc;
+  //height: 500px;
+  //background-position: center;
+  //background-repeat: no-repeat;
+  //background-size: cover;
+  //position: relative;
+//}
+
+//.hero-image2 {
+  //background-image: url("./final.jpg");
+  //background-color:#cccccc;
+  //height: 500px;
+  //background-position: center;
+  ///background-repeat: no-repeat;
+  //background-size: cover;
+  //position: relative;
+//}
+
+
+
